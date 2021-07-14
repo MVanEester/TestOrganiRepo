@@ -1,0 +1,13 @@
+E:\DOCUMENTEN\Solliciteren\Organi\TestOrgani\TestOrgani\obj\Debug\netcoreapp3.1\TestOrgani.csproj.AssemblyReference.cache
+E:\DOCUMENTEN\Solliciteren\Organi\TestOrgani\TestOrgani\obj\Debug\netcoreapp3.1\TestOrgani.AssemblyInfoInputs.cache
+E:\DOCUMENTEN\Solliciteren\Organi\TestOrgani\TestOrgani\obj\Debug\netcoreapp3.1\TestOrgani.AssemblyInfo.cs
+E:\DOCUMENTEN\Solliciteren\Organi\TestOrgani\TestOrgani\obj\Debug\netcoreapp3.1\TestOrgani.csproj.CoreCompileInputs.cache
+E:\DOCUMENTEN\Solliciteren\Organi\TestOrgani\TestOrgani\bin\Debug\netcoreapp3.1\TestOrgani.exe
+E:\DOCUMENTEN\Solliciteren\Organi\TestOrgani\TestOrgani\bin\Debug\netcoreapp3.1\TestOrgani.deps.json
+E:\DOCUMENTEN\Solliciteren\Organi\TestOrgani\TestOrgani\bin\Debug\netcoreapp3.1\TestOrgani.runtimeconfig.json
+E:\DOCUMENTEN\Solliciteren\Organi\TestOrgani\TestOrgani\bin\Debug\netcoreapp3.1\TestOrgani.runtimeconfig.dev.json
+E:\DOCUMENTEN\Solliciteren\Organi\TestOrgani\TestOrgani\bin\Debug\netcoreapp3.1\TestOrgani.dll
+E:\DOCUMENTEN\Solliciteren\Organi\TestOrgani\TestOrgani\bin\Debug\netcoreapp3.1\TestOrgani.pdb
+E:\DOCUMENTEN\Solliciteren\Organi\TestOrgani\TestOrgani\obj\Debug\netcoreapp3.1\TestOrgani.dll
+E:\DOCUMENTEN\Solliciteren\Organi\TestOrgani\TestOrgani\obj\Debug\netcoreapp3.1\TestOrgani.pdb
+E:\DOCUMENTEN\Solliciteren\Organi\TestOrgani\TestOrgani\obj\Debug\netcoreapp3.1\TestOrgani.genruntimeconfig.cache
